@@ -1,0 +1,1 @@
+window.CKEDITOR_BASEPATH = '/profiles/opigno_lms/libraries/ckeditor/';
